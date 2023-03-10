@@ -1,4 +1,5 @@
 # Snake Game
+- 블로그에 내용 정리 : https://blog.naver.com/wjddls3154/222652593720
 ## * 메인 게임 화면
 ### (방향키를 이용하여 뱀의 이동가능)
 ![1](https://user-images.githubusercontent.com/37132897/154828520-f180a6d0-4731-4642-b59c-d65b684aa105.PNG)
